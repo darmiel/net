@@ -1,4 +1,4 @@
-module golang.org/x/net
+module github.com/darmiel/net
 
 go 1.17
 
